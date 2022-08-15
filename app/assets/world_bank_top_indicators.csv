@@ -1,0 +1,524 @@
+indicator
+Agricultural irrigated land (% of total agricultural land)
+Agricultural land (% of land area)
+"Agricultural machinery, tractors per 100 sq. km of arable land"
+"Agriculture, forestry, and fishing, value added (% of GDP)"
+Arable land (% of land area)
+Arable land (hectares per person)
+Cereal yield (kg per hectare)
+Crop production index (2014-2016 = 100)
+"Employment in agriculture, female (% of female employment) (modeled ILO estimate)"
+"Employment in agriculture, male (% of male employment) (modeled ILO estimate)"
+Fertilizer consumption (kilograms per hectare of arable land)
+Food production index (2014-2016 = 100)
+Forest area (% of land area)
+Forest area (sq. km)
+Land area (sq. km)
+Land under cereal production (hectares)
+Livestock production index (2014-2016 = 100)
+Permanent cropland (% of land area)
+Rural population
+Rural population (% of total population)
+Surface area (sq. km)
+"Grants, excluding technical cooperation (BoP, current US$)"
+"Incidence of tuberculosis (per 100,000 people)"
+Income share held by lowest 20%
+"Maternal mortality ratio (modeled estimate, per 100,000 live births)"
+"Mortality rate, under-5 (per 1,000 live births)"
+Net ODA received (% of GNI)
+Net ODA received (% of central government expense)
+Net ODA received (% of gross capital formation)
+"Net ODA received (% of imports of goods, services and primary income)"
+Net ODA received per capita (current US$)
+Net migration
+Net official development assistance received (current US$)
+Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)
+Pregnant women receiving prenatal care (%)
+"Prevalence of HIV, total (% of population ages 15-49)"
+"Prevalence of stunting, height for age (% of children under 5)"
+"Primary completion rate, total (% of relevant age group)"
+"School enrollment, primary and secondary (gross), gender parity index (GPI)"
+"Technical cooperation grants (BoP, current US$)"
+Access to electricity (% of population)
+Agricultural irrigated land (% of total agricultural land)
+Agricultural land (% of land area)
+"Agriculture, forestry, and fishing, value added (% of GDP)"
+"Annual freshwater withdrawals, total (% of internal resources)"
+"Annual freshwater withdrawals, total (billion cubic meters)"
+Arable land (% of land area)
+CO2 emissions (kt)
+CO2 emissions (metric tons per capita)
+CPIA public sector management and institutions cluster average (1=low to 6=high)
+Cereal yield (kg per hectare)
+Ease of doing business rank (1=most business-friendly regulations)
+Electric power consumption (kWh per capita)
+Energy use (kg of oil equivalent per capita)
+Forest area (% of land area)
+Forest area (sq. km)
+Land area where elevation is below 5 meters (% of total land area)
+Methane emissions (kt of CO2 equivalent)
+"Mortality rate, under-5 (per 1,000 live births)"
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent)
+Population growth (annual %)
+Population in urban agglomerations of more than 1 million (% of total population)
+Population living in areas where elevation is below 5 meters (% of total population)
+"Population, total"
+Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)
+"Prevalence of underweight, weight for age (% of children under 5)"
+"Primary completion rate, total (% of relevant age group)"
+Renewable electricity output (% of total electricity output)
+Renewable energy consumption (% of total final energy consumption)
+"School enrollment, primary and secondary (gross), gender parity index (GPI)"
+Terrestrial and marine protected areas (% of total territorial area)
+Total greenhouse gas emissions (kt of CO2 equivalent)
+Urban population
+Urban population (% of total population)
+"Adjusted net savings, including particulate emission damage (% of GNI)"
+"Agriculture, forestry, and fishing, value added (% of GDP)"
+"Central government debt, total (% of GDP)"
+"Charges for the use of intellectual property, payments (BoP, current US$)"
+"Charges for the use of intellectual property, receipts (BoP, current US$)"
+"Current account balance (BoP, current US$)"
+Expense (% of GDP)
+Exports of goods and services (% of GDP)
+External debt stocks (% of GNI)
+"External debt stocks, total (DOD, current US$)"
+"Foreign direct investment, net inflows (BoP, current US$)"
+GDP (current US$)
+GDP growth (annual %)
+GDP per capita (current US$)
+GDP per capita growth (annual %)
+"GDP per capita, PPP (current international $)"
+"GNI per capita, Atlas method (current US$)"
+"GNI per capita, PPP (current international $)"
+"GNI, Atlas method (current US$)"
+"GNI, PPP (current international $)"
+"Grants, excluding technical cooperation (BoP, current US$)"
+Gross capital formation (% of GDP)
+Gross savings (% of GDP)
+Imports of goods and services (% of GDP)
+"Industry (including construction), value added (% of GDP)"
+"Inflation, GDP deflator (annual %)"
+"Inflation, consumer prices (annual %)"
+Medium and high-tech manufacturing value added (% manufacturing value added)
+Net ODA received (% of GNI)
+Net ODA received per capita (current US$)
+Net official development assistance received (current US$)
+"PPP conversion factor, GDP (LCU per international $)"
+"Personal remittances, received (current US$)"
+Price level ratio of PPP conversion factor (GDP) to market exchange rate
+"Revenue, excluding grants (% of GDP)"
+Short-term debt (% of total reserves)
+"Technical cooperation grants (BoP, current US$)"
+"Total debt service (% of exports of goods, services and primary income)"
+"Total reserves (includes gold, current US$)"
+"Children out of school, primary, female"
+"Children out of school, primary, male"
+"Government expenditure on education, total (% of GDP)"
+"Government expenditure on education, total (% of government expenditure)"
+"Government expenditure per student, primary (% of GDP per capita)"
+"Government expenditure per student, secondary (% of GDP per capita)"
+"Government expenditure per student, tertiary (% of GDP per capita)"
+"Gross intake ratio in first grade of primary education, female (% of relevant age group)"
+"Gross intake ratio in first grade of primary education, male (% of relevant age group)"
+"Labor force, female (% of total labor force)"
+"Labor force, total"
+"Literacy rate, adult female (% of females ages 15 and above)"
+"Literacy rate, adult male (% of males ages 15 and above)"
+"Literacy rate, adult total (% of people ages 15 and above)"
+"Literacy rate, youth female (% of females ages 15-24)"
+"Literacy rate, youth male (% of males ages 15-24)"
+"Literacy rate, youth total (% of people ages 15-24)"
+"Persistence to last grade of primary, female (% of cohort)"
+"Persistence to last grade of primary, male (% of cohort)"
+Population ages 0-14 (% of total population)
+Population ages 15-64 (% of total population)
+"Primary completion rate, female (% of relevant age group)"
+"Primary completion rate, male (% of relevant age group)"
+"Primary completion rate, total (% of relevant age group)"
+"Progression to secondary school, female (%)"
+"Progression to secondary school, male (%)"
+"Pupil-teacher ratio, primary"
+"Repeaters, primary, female (% of female enrollment)"
+"Repeaters, primary, male (% of male enrollment)"
+"School enrollment, preprimary (% gross)"
+"School enrollment, primary (% gross)"
+"School enrollment, primary (% net)"
+"School enrollment, primary (gross), gender parity index (GPI)"
+"School enrollment, primary and secondary (gross), gender parity index (GPI)"
+"School enrollment, secondary (% gross)"
+"School enrollment, secondary (% net)"
+"School enrollment, tertiary (% gross)"
+Trained teachers in primary education (% of total teachers)
+"Unemployment, female (% of female labor force) (modeled ILO estimate)"
+"Unemployment, male (% of male labor force) (modeled ILO estimate)"
+"Unemployment, total (% of total labor force) (modeled ILO estimate)"
+Access to electricity (% of population)
+Alternative and nuclear energy (% of total energy use)
+Electric power consumption (kWh per capita)
+"Energy imports, net (% of energy use)"
+Energy intensity level of primary energy (MJ/$2017 PPP GDP)
+Energy use (kg of oil equivalent per capita)
+Fossil fuel energy consumption (% of total)
+Fuel exports (% of merchandise exports)
+GDP per unit of energy use (constant 2017 PPP $ per kg of oil equivalent)
+Investment in energy with private participation (current US$)
+Ores and metals exports (% of merchandise exports)
+Renewable electricity output (% of total electricity output)
+Renewable energy consumption (% of total final energy consumption)
+Time required to get electricity (days)
+Total natural resources rents (% of GDP)
+Access to electricity (% of population)
+"Adjusted net savings, including particulate emission damage (% of GNI)"
+Agricultural land (% of land area)
+"Annual freshwater withdrawals, total (% of internal resources)"
+"Annual freshwater withdrawals, total (billion cubic meters)"
+Arable land (% of land area)
+"Bird species, threatened"
+CO2 emissions (kt)
+CO2 emissions (metric tons per capita)
+Energy intensity level of primary energy (MJ/$2017 PPP GDP)
+"Fish species, threatened"
+Forest area (% of land area)
+Forest area (sq. km)
+Land area (sq. km)
+Land area where elevation is below 5 meters (% of total land area)
+"Mammal species, threatened"
+Methane emissions (kt of CO2 equivalent)
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent)
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)"
+"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)"
+"Plant species (higher), threatened"
+Population living in areas where elevation is below 5 meters (% of total population)
+Population living in slums (% of urban population)
+Renewable electricity output (% of total electricity output)
+Renewable energy consumption (% of total final energy consumption)
+Renewable internal freshwater resources per capita (cubic meters)
+"Renewable internal freshwater resources, total (billion cubic meters)"
+Surface area (sq. km)
+Terrestrial and marine protected areas (% of total territorial area)
+Total greenhouse gas emissions (kt of CO2 equivalent)
+Total natural resources rents (% of GDP)
+"Current account balance (BoP, current US$)"
+External debt stocks (% of GNI)
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)"
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)"
+"External debt stocks, short-term (DOD, current US$)"
+"External debt stocks, total (DOD, current US$)"
+"Foreign direct investment, net inflows (BoP, current US$)"
+"Grants, excluding technical cooperation (BoP, current US$)"
+"IBRD loans and IDA credits (DOD, current US$)"
+Net ODA received (% of GNI)
+Net ODA received per capita (current US$)
+Net official development assistance received (current US$)
+"Personal remittances, received (current US$)"
+Short-term debt (% of total reserves)
+"Technical cooperation grants (BoP, current US$)"
+"Total debt service (% of exports of goods, services and primary income)"
+"Total reserves (includes gold, current US$)"
+"Use of IMF credit (DOD, current US$)"
+"Automated teller machines (ATMs) (per 100,000 adults)"
+Bank capital to assets ratio (%)
+Bank nonperforming loans to total gross loans (%)
+Broad money (% of GDP)
+Broad money growth (annual %)
+"Commercial bank branches (per 100,000 adults)"
+Deposit interest rate (%)
+Depth of credit information index (0=low to 8=high)
+Domestic credit provided by financial sector (% of GDP)
+Domestic credit to private sector (% of GDP)
+"Foreign direct investment, net inflows (BoP, current US$)"
+"Inflation, consumer prices (annual %)"
+"Interest rate spread (lending rate minus deposit rate, %)"
+"International migrant stock, total"
+Lending interest rate (%)
+"Listed domestic companies, total"
+Market capitalization of listed domestic companies (% of GDP)
+Market capitalization of listed domestic companies (current US$)
+Net migration
+"Official exchange rate (LCU per US$, period average)"
+"Personal remittances, received (current US$)"
+Real interest rate (%)
+"Risk premium on lending (lending rate minus treasury bill rate, %)"
+S&P Global Equity Indices (annual % change)
+"Stocks traded, total value (% of GDP)"
+"Stocks traded, turnover ratio of domestic shares (%)"
+Strength of legal rights index (0=weak to 12=strong)
+"Total reserves (includes gold, current US$)"
+"Adolescent fertility rate (births per 1,000 women ages 15-19)"
+Births attended by skilled health staff (% of total)
+"Children in employment, female (% of female children ages 7-14)"
+"Children in employment, male (% of male children ages 7-14)"
+"Children out of school, primary, female"
+"Children out of school, primary, male"
+"Contraceptive prevalence, any method (% of married women ages 15-49)"
+"Contributing family workers, female (% of female employment) (modeled ILO estimate)"
+"Contributing family workers, male (% of male employment) (modeled ILO estimate)"
+"Employment in agriculture, female (% of female employment) (modeled ILO estimate)"
+"Employment in agriculture, male (% of male employment) (modeled ILO estimate)"
+"Employment in industry, female (% of female employment) (modeled ILO estimate)"
+"Employment in industry, male (% of male employment) (modeled ILO estimate)"
+"Employment in services, female (% of female employment) (modeled ILO estimate)"
+"Employment in services, male (% of male employment) (modeled ILO estimate)"
+"Fertility rate, total (births per woman)"
+Firms with female participation in ownership (% of firms)
+Firms with female top manager (% of firms)
+"Gross intake ratio in first grade of primary education, female (% of relevant age group)"
+"Gross intake ratio in first grade of primary education, male (% of relevant age group)"
+"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)"
+"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)"
+"Labor force, female (% of total labor force)"
+"Life expectancy at birth, female (years)"
+"Life expectancy at birth, male (years)"
+"Literacy rate, adult female (% of females ages 15 and above)"
+"Literacy rate, adult male (% of males ages 15 and above)"
+"Literacy rate, youth female (% of females ages 15-24)"
+"Literacy rate, youth male (% of males ages 15-24)"
+"Maternal mortality ratio (modeled estimate, per 100,000 live births)"
+"Persistence to last grade of primary, female (% of cohort)"
+"Persistence to last grade of primary, male (% of cohort)"
+Pregnant women receiving prenatal care (%)
+"Prevalence of HIV, female (% ages 15-24)"
+"Prevalence of HIV, male (% ages 15-24)"
+"Primary completion rate, female (% of relevant age group)"
+"Primary completion rate, male (% of relevant age group)"
+"Progression to secondary school, female (%)"
+"Progression to secondary school, male (%)"
+Proportion of seats held by women in national parliaments (%)
+"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)"
+"Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)"
+"Repeaters, primary, female (% of female enrollment)"
+"Repeaters, primary, male (% of male enrollment)"
+"School enrollment, primary (gross), gender parity index (GPI)"
+"School enrollment, primary and secondary (gross), gender parity index (GPI)"
+Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)
+"Unemployment, female (% of female labor force) (modeled ILO estimate)"
+"Unemployment, male (% of male labor force) (modeled ILO estimate)"
+"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)"
+"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+"Vulnerable employment, female (% of female employment) (modeled ILO estimate)"
+"Vulnerable employment, male (% of male employment) (modeled ILO estimate)"
+"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)"
+"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)"
+"Adolescent fertility rate (births per 1,000 women ages 15-19)"
+Age dependency ratio (% of working-age population)
+"Birth rate, crude (per 1,000 people)"
+Births attended by skilled health staff (% of total)
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)"
+"Cause of death, by injury (% of total)"
+"Cause of death, by non-communicable diseases (% of total)"
+Completeness of birth registration (%)
+Completeness of death registration with cause-of-death information (%)
+"Contraceptive prevalence, any method (% of married women ages 15-49)"
+"Death rate, crude (per 1,000 people)"
+Diabetes prevalence (% of population ages 20 to 79)
+"Fertility rate, total (births per woman)"
+"Hospital beds (per 1,000 people)"
+"Immunization, DPT (% of children ages 12-23 months)"
+"Immunization, measles (% of children ages 12-23 months)"
+"Incidence of tuberculosis (per 100,000 people)"
+"International migrant stock, total"
+"Life expectancy at birth, female (years)"
+"Life expectancy at birth, male (years)"
+"Life expectancy at birth, total (years)"
+"Maternal mortality ratio (modeled estimate, per 100,000 live births)"
+"Mortality caused by road traffic injury (per 100,000 population)"
+"Mortality rate, infant (per 1,000 live births)"
+"Mortality rate, neonatal (per 1,000 live births)"
+"Mortality rate, under-5 (per 1,000 live births)"
+Net migration
+"Number of surgical procedures (per 100,000 population)"
+Population ages 0-14 (% of total population)
+Population ages 15-64 (% of total population)
+Population ages 65 and above (% of total population)
+Population growth (annual %)
+"Population, female (% of total population)"
+"Population, total"
+Pregnant women receiving prenatal care (%)
+"Prevalence of HIV, female (% ages 15-24)"
+"Prevalence of HIV, male (% ages 15-24)"
+"Prevalence of HIV, total (% of population ages 15-49)"
+Prevalence of anemia among children (% of children ages 6-59 months)
+"Prevalence of overweight, weight for height (% of children under 5)"
+"Prevalence of severe wasting, weight for height (% of children under 5)"
+"Prevalence of stunting, height for age (% of children under 5)"
+Prevalence of undernourishment (% of population)
+"Prevalence of underweight, weight for age (% of children under 5)"
+"Prevalence of wasting, weight for height (% of children under 5)"
+Refugee population by country or territory of asylum
+Refugee population by country or territory of origin
+Risk of catastrophic expenditure for surgical care (% of people at risk)
+Risk of impoverishing expenditure for surgical care (% of people at risk)
+"Specialist surgical workforce (per 100,000 population)"
+Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)
+Unmet need for contraception (% of married women ages 15-49)
+"Air transport, registered carrier departures worldwide"
+"Annual freshwater withdrawals, total (% of internal resources)"
+"Annual freshwater withdrawals, total (billion cubic meters)"
+Container port traffic (TEU: 20 foot equivalent units)
+Electric power consumption (kWh per capita)
+Fixed broadband subscriptions (per 100 people)
+Fixed telephone subscriptions (per 100 people)
+Investment in energy with private participation (current US$)
+Investment in transport with private participation (current US$)
+Investment in water and sanitation with private participation (current US$)
+Mobile cellular subscriptions (per 100 people)
+Public private partnerships investment in ICT (current US$)
+Rail lines (total route-km)
+Renewable internal freshwater resources per capita (cubic meters)
+"Renewable internal freshwater resources, total (billion cubic meters)"
+Secure Internet servers (per 1 million people)
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"
+"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)"
+Gini index
+Income share held by fourth 20%
+Income share held by highest 10%
+Income share held by highest 20%
+Income share held by lowest 10%
+Income share held by lowest 20%
+Income share held by second 20%
+Income share held by third 20%
+Population living in slums (% of urban population)
+Poverty gap at $1.90 a day (2011 PPP) (%)
+Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)
+Poverty headcount ratio at national poverty lines (% of population)
+"Survey mean consumption or income per capita, bottom 40% of population (2011 PPP $ per day)"
+"Survey mean consumption or income per capita, total population (2011 PPP $ per day)"
+Business extent of disclosure index (0=less disclosure to 10=more disclosure)
+Depth of credit information index (0=low to 8=high)
+Domestic credit to private sector (% of GDP)
+Ease of doing business rank (1=most business-friendly regulations)
+Firms experiencing electrical outages (% of firms)
+Firms experiencing losses due to theft and vandalism (% of firms)
+Firms that spend on R&D (% of firms)
+Firms using banks to finance working capital (% of firms)
+Firms with female participation in ownership (% of firms)
+Firms with female top manager (% of firms)
+Fuel exports (% of merchandise exports)
+High-technology exports (% of manufactured exports)
+High-technology exports (current US$)
+"International tourism, expenditures (% of total imports)"
+"International tourism, receipts (% of total exports)"
+Investment in energy with private participation (current US$)
+Investment in transport with private participation (current US$)
+Investment in water and sanitation with private participation (current US$)
+"Lead time to export, median case (days)"
+"Lead time to import, median case (days)"
+Logistics performance index: Overall (1=low to 5=high)
+Medium and high-tech exports (% manufactured exports)
+Merchandise exports (current US$)
+Merchandise imports (current US$)
+Merchandise trade (% of GDP)
+Net barter terms of trade index (2000 = 100)
+New businesses registered (number)
+Ores and metals exports (% of merchandise exports)
+Start-up procedures to register a business (number)
+"Start-up procedures to register a business, female (number)"
+"Start-up procedures to register a business, male (number)"
+Strength of legal rights index (0=weak to 12=strong)
+Time required to get electricity (days)
+Time required to start a business (days)
+"Time required to start a business, female (days)"
+"Time required to start a business, male (days)"
+Time spent dealing with the requirements of government regulations (% of senior management time)
+Total tax and contribution rate (% of profit)
+CPIA economic management cluster average (1=low to 6=high)
+CPIA policies for social inclusion/equity cluster average (1=low to 6=high)
+CPIA public sector management and institutions cluster average (1=low to 6=high)
+CPIA structural policies cluster average (1=low to 6=high)
+"Central government debt, total (% of GDP)"
+Expense (% of GDP)
+IDA resource allocation index (1=low to 6=high)
+"Intentional homicides (per 100,000 people)"
+Military expenditure (% of GDP)
+Military expenditure (% of general government expenditure)
+Net acquisition of financial assets (% of GDP)
+"Net incurrence of liabilities, total (% of GDP)"
+Net investment in nonfinancial assets (% of GDP)
+Net lending (+) / net borrowing (-) (% of GDP)
+Proportion of seats held by women in national parliaments (%)
+"Revenue, excluding grants (% of GDP)"
+Statistical Capacity Score (Overall Average) (scale 0 - 100)
+Strength of legal rights index (0=weak to 12=strong)
+Tax revenue (% of GDP)
+Total tax and contribution rate (% of profit)
+"Charges for the use of intellectual property, payments (BoP, current US$)"
+"Charges for the use of intellectual property, receipts (BoP, current US$)"
+High-technology exports (% of manufactured exports)
+High-technology exports (current US$)
+"Patent applications, nonresidents"
+"Patent applications, residents"
+Research and development expenditure (% of GDP)
+Researchers in R&D (per million people)
+Scientific and technical journal articles
+Technicians in R&D (per million people)
+"Adolescent fertility rate (births per 1,000 women ages 15-19)"
+"Children in employment, female (% of female children ages 7-14)"
+"Children in employment, male (% of male children ages 7-14)"
+"Children in employment, total (% of children ages 7-14)"
+"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)"
+"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)"
+"Life expectancy at birth, female (years)"
+"Life expectancy at birth, male (years)"
+"Prevalence of HIV, female (% ages 15-24)"
+"Prevalence of HIV, male (% ages 15-24)"
+Proportion of seats held by women in national parliaments (%)
+Refugee population by country or territory of asylum
+Refugee population by country or territory of origin
+"School enrollment, primary (gross), gender parity index (GPI)"
+"School enrollment, primary and secondary (gross), gender parity index (GPI)"
+"Unemployment, female (% of female labor force) (modeled ILO estimate)"
+"Unemployment, male (% of male labor force) (modeled ILO estimate)"
+"Vulnerable employment, female (% of female employment) (modeled ILO estimate)"
+"Vulnerable employment, male (% of male employment) (modeled ILO estimate)"
+"Children in employment, female (% of female children ages 7-14)"
+"Children in employment, male (% of male children ages 7-14)"
+"Children in employment, total (% of children ages 7-14)"
+"Contributing family workers, female (% of female employment) (modeled ILO estimate)"
+"Contributing family workers, male (% of male employment) (modeled ILO estimate)"
+"Employment in agriculture, female (% of female employment) (modeled ILO estimate)"
+"Employment in agriculture, male (% of male employment) (modeled ILO estimate)"
+"Employment in industry, female (% of female employment) (modeled ILO estimate)"
+"Employment in industry, male (% of male employment) (modeled ILO estimate)"
+"Employment in services, female (% of female employment) (modeled ILO estimate)"
+"Employment in services, male (% of male employment) (modeled ILO estimate)"
+"Employment to population ratio, 15+, total (%) (modeled ILO estimate)"
+GDP per person employed (constant 2017 PPP $)
+"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)"
+"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)"
+"Labor force, female (% of total labor force)"
+"Labor force, total"
+"Unemployment, female (% of female labor force) (modeled ILO estimate)"
+"Unemployment, male (% of male labor force) (modeled ILO estimate)"
+"Unemployment, total (% of total labor force) (modeled ILO estimate)"
+"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)"
+"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+"Vulnerable employment, female (% of female employment) (modeled ILO estimate)"
+"Vulnerable employment, male (% of male employment) (modeled ILO estimate)"
+"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)"
+"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)"
+"Energy imports, net (% of energy use)"
+Exports of goods and services (% of GDP)
+Fuel exports (% of merchandise exports)
+High-technology exports (% of manufactured exports)
+High-technology exports (current US$)
+Imports of goods and services (% of GDP)
+"International tourism, expenditures (% of total imports)"
+"International tourism, receipts (% of total exports)"
+"Lead time to export, median case (days)"
+"Lead time to import, median case (days)"
+Logistics performance index: Overall (1=low to 5=high)
+Medium and high-tech exports (% manufactured exports)
+Merchandise exports (current US$)
+Merchandise imports (current US$)
+Merchandise trade (% of GDP)
+Net barter terms of trade index (2000 = 100)
+Ores and metals exports (% of merchandise exports)
+"Mortality caused by road traffic injury (per 100,000 population)"
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)"
+"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)"
+Population density (people per sq. km of land area)
+Population in the largest city (% of urban population)
+Population in urban agglomerations of more than 1 million (% of total population)
+Population living in slums (% of urban population)
+Urban population
