@@ -14,12 +14,11 @@ world_bank_top_indicators = read.csv("assets/world_bank_top_indicators.csv")$ind
 ui <- navbarPage("CountryFinder",theme = shinytheme("superhero"),
   tabPanel("Main",useShinyjs(),
            sidebarPanel(
-           selectInput("selectIndicator1",label="Select Indicator1",
-                       choices = world_bank_top_indicators, selected = "Life expectancy at birth, total (years)"),
-           selectInput("selectIndicator2",label="Select Indicator2",
-                       choices = world_bank_top_indicators, selected = "Urban population (% of total population)"),
-           selectInput("selectIndicator3",label="Select Indicator3",
-                       choices = world_bank_top_indicators, selected = "GDP per capita (current US$)"),
+           selectInput("selectIndicators",label="Select Indicators",
+                       choices = world_bank_top_indicators, selected = 
+                         c("Life expectancy at birth, total (years)","Urban population (% of total population",
+                           "GDP per capita (current US$)"),
+                       multiple = TRUE),
            selectInput("selectCountry", label = "Select Country", choices = world_bank_countries$country, 
            selected = "United States"),
            selectInput("selectYear", label = "Select Year", choices = 2022:1960,selected=1994),
@@ -80,7 +79,7 @@ server <- function(input, output) {
   observe({
     # Note, we will have to fix order here
     subset <- world_bank_indicators %>% 
-      filter(indicator %in% c(input$selectIndicator1,input$selectIndicator2,input$selectIndicator3))
+      filter(indicator %in% input$selectIndicators)
       
     indicator_list <<- subset$indicator
     indicator_id_list <<- subset$indicator_id
@@ -115,7 +114,7 @@ server <- function(input, output) {
                    colnames(results_df) <- c("Country",indicator_list)
                    
                    output$closestCountryText = renderText({
-                     paste0("Based on the selected indicators, the country most resembling ",country_year,
+                     paste0("Based on the selected indicators, the country in the current year most resembling ",country_year,
                             " ",country," is: ", results_df$Country[2])
                      
                    })

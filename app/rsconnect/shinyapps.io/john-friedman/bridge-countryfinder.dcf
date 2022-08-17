@@ -5,9 +5,9 @@ account: john-friedman
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6784248
-bundleId: 6201880
+bundleId: 6209153
 url: https://john-friedman.shinyapps.io/bridge-countryfinder/
-when: 1660541152.40169
-lastSyncTime: 1660541152.40169
+when: 1660712942.98826
+lastSyncTime: 1660712942.98826
 asMultiple: FALSE
 asStatic: FALSE
