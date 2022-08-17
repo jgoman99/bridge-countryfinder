@@ -16,8 +16,7 @@ ui <- navbarPage("CountryFinder",theme = shinytheme("superhero"),
            sidebarPanel(
            selectInput("selectIndicators",label="Select Indicators",
                        choices = world_bank_top_indicators, selected = 
-                         c("Life expectancy at birth, total (years)","Urban population (% of total population",
-                           "GDP per capita (current US$)"),
+                         c("GDP per capita growth (annual %)"	,"Population growth (annual %)"),
                        multiple = TRUE),
            selectInput("selectCountry", label = "Select Country", choices = world_bank_countries$country, 
            selected = "United States"),
@@ -38,11 +37,7 @@ ui <- navbarPage("CountryFinder",theme = shinytheme("superhero"),
              tableOutput("closestCountryTable"),
              br()
              ),
-             textOutput("descriptionText1"),
-             br(),
-             textOutput("descriptionText2"),
-             br(),
-             textOutput("descriptionText3"),
+             htmlOutput("descriptionText"),
              br(),
              textOutput("sourcesText")
            )
@@ -92,9 +87,7 @@ server <- function(input, output) {
   observeEvent(input$buttonFindCountry,
                {
                  toggle("closestCountryTable")
-                 toggle("descriptionText1")
-                 toggle("descriptionText2")
-                 toggle("descriptionText3")
+                 toggle("descriptionText")
                  toggle("sourcesText")
                  output$closestCountryText = renderText({"Loading..."})
 
@@ -120,9 +113,9 @@ server <- function(input, output) {
                    })
                    
                    output$closestCountryTable = renderTable({results_df})
-                   output$descriptionText1 = renderText({paste0(indicator_desc_list[1])})
-                   output$descriptionText2 = renderText({paste0(indicator_desc_list[2])})
-                   output$descriptionText3 = renderText({paste0(indicator_desc_list[3])})
+                   output$descriptionText = renderText({
+                     HTML(paste(indicator_desc_list,collapse='<br/><br/>'))
+                     })
                    output$sourcesText = renderText({paste0("Sources: ",unique(indicator_source_list),collapse=", ")})
                    
                  }
@@ -131,15 +124,11 @@ server <- function(input, output) {
                    output$closestCountryText = renderText({"Something went wrong. This usually happens due
                      to missing data. Try a country year closer to 2000, or more common indicators."})
                    output$closestCountryTable = renderTable({results_df})
-                   output$descriptionText1 = renderText({""})
-                   output$descriptionText2 = renderText({""})
-                   output$descriptionText3 = renderText({""})
+                   output$descriptionText = renderText({""})
                    output$sourcesText = renderText({""})
                  }
                  toggle("closestCountryTable")
-                 toggle("descriptionText1")
-                 toggle("descriptionText2")
-                 toggle("descriptionText3")
+                 toggle("descriptionText")
                  toggle("sourcesText")
                })
 
